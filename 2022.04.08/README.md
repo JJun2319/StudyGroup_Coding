@@ -1,4 +1,11 @@
-# Study Report 
+<img src="https://img.shields.io/badge/Edit%20With%20StackEdit-606060?style=flat&logo=StackEdit&logoColor=white"/>
+<a href="http://qr.kakao.com/talk/JmrJ1RExnFS6lirr.asOrzbmxlU-"><img src="https://img.shields.io/badge/KakaoTalk 친구 추가-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+	
+
+
+
+
+# Study Report
 ## 2022.04.08
 
 ## 학습주제: C++의 정의 및 역사
