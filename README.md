@@ -1,2 +1,2 @@
 # StudyGroup_Coding
-GoyangMiddleSchool_SutdyGroup:coding   since 2022.03.25
+GoyangMiddleSchool_StudyGroup:coding   since 2022.03.25
